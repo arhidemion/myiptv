@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF: -1 group-title='центральное тв', Кавказ 24 (Ставрополь)
+#EXTINF:-1 group-title='центральное тв',Кавказ 24
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF:-1 group-title='центральное тв',СВОЁ ТВ HD (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
+#EXTINF:-1 group-title='центральное тв',АТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
 #EXTINF: -1 group-title='центральное тв', Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF: -1 group-title='центральное тв', Россия 1
