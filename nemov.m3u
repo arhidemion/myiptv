@@ -1,353 +1,345 @@
 #EXTM3U
-#EXTINF:-1 group-title='центральное тв',Кавказ 24
+#EXTINF: -1 group-title='цтв', Кавказ 24
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF:-1 group-title='центральное тв',СВОЁ ТВ HD (Ставрополь)
+#EXTINF: -1 group-title='цтв', СВОЁ ТВ HD (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
-#EXTINF:-1 group-title='центральное тв',АТВ (Ставрополь)
+#EXTINF: -1 group-title='цтв', АТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF: -1 group-title='центральное тв', Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='центральное тв', Матч!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF: -1 group-title='центральное тв', НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='центральное тв', Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия К
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='центральное тв', Россия 24
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='центральное тв', Карусель
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='центральное тв', ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='центральное тв', ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='центральное тв', РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='центральное тв', СПАС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='центральное тв', СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='центральное тв', Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='центральное тв', ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='центральное тв', Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='центральное тв', МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='центральное тв', ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='центральное тв', МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='центральное тв', Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='центральное тв', СОЮЗ HD
-http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
-#EXTINF: -1 group-title='центральное тв', Вести ФМ
+#EXTINF: -1 group-title='цтв', Первый канал (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_1TV.m3u8
+#EXTINF: -1 group-title='цтв', Россия 1 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIA1.m3u8
+#EXTINF: -1 group-title='цтв', Матч! (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_MATCHTV.m3u8
+#EXTINF: -1 group-title='цтв', НТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_NTV.m3u8
+#EXTINF: -1 group-title='цтв', Пятый канал (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_5TV.m3u8
+#EXTINF: -1 group-title='цтв', Россия K (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIAK.m3u8
+#EXTINF: -1 group-title='цтв', Россия 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIA24.m3u8
+#EXTINF: -1 group-title='цтв', ОТР (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_OTR.m3u8
+#EXTINF: -1 group-title='цтв', ТВЦ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TVC.m3u8
+#EXTINF: -1 group-title='цтв', РЕН ТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_RENTV.m3u8
+#EXTINF: -1 group-title='цтв', СТС (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_STS.m3u8
+#EXTINF: -1 group-title='цтв', Домашний (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_DOMASHNIY.m3u8
+#EXTINF: -1 group-title='цтв', ТВ3 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TV3.m3u8
+#EXTINF: -1 group-title='цтв', Пятница! (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_FRIDAY.m3u8
+#EXTINF: -1 group-title='цтв', Звезда (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ZVEZDA.m3u8
+#EXTINF: -1 group-title='цтв', Кавказ 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF: -1 group-title='цтв', СВОЁ ТВ HD (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
+#EXTINF: -1 group-title='цтв', АТВ (Ставрополь)
+http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
+#EXTINF: -1 group-title='цтв', Своё ТВ Ставрополь HD
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF: -1 group-title='цтв', Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='центральное тв', Маяк
+#EXTINF: -1 group-title='цтв', Маяк
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='центральное тв', Радио России
+#EXTINF: -1 group-title='цтв', Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал (-1)
+#EXTINF: -1 group-title='-0+ тв', Первый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал
+#EXTINF: -1 group-title='-0+ тв', Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 2)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 4)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 6)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 7)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 8)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Первый канал ( 9)
+#EXTINF: -1 group-title='-0+ тв', Первый канал ( 9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 (-1)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1
+#EXTINF: -1 group-title='-0+ тв', Россия 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 2)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 4)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 6)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 7)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 8)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 1 ( 9)
+#EXTINF: -1 group-title='-0+ тв', Россия 1 ( 9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Матч!
+#EXTINF: -1 group-title='-0+ тв', Матч!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ (-1)
+#EXTINF: -1 group-title='-0+ тв', НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ
+#EXTINF: -1 group-title='-0+ тв', НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 2)
+#EXTINF: -1 group-title='-0+ тв', НТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 4)
+#EXTINF: -1 group-title='-0+ тв', НТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 6)
+#EXTINF: -1 group-title='-0+ тв', НТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', НТВ ( 7)
+#EXTINF: -1 group-title='-0+ тв', НТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал (-1)
+#EXTINF: -1 group-title='-0+ тв', Пятый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал
+#EXTINF: -1 group-title='-0+ тв', Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 2)
+#EXTINF: -1 group-title='-0+ тв', Пятый канал ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 4)
+#EXTINF: -1 group-title='-0+ тв', Пятый канал ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 6)
+#EXTINF: -1 group-title='-0+ тв', Пятый канал ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятый канал ( 7)
+#EXTINF: -1 group-title='-0+ тв', Пятый канал ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К (-1)
+#EXTINF: -1 group-title='-0+ тв', Россия К (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К
+#EXTINF: -1 group-title='-0+ тв', Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 2)
+#EXTINF: -1 group-title='-0+ тв', Россия К ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 4)
+#EXTINF: -1 group-title='-0+ тв', Россия К ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 6)
+#EXTINF: -1 group-title='-0+ тв', Россия К ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия К ( 7)
+#EXTINF: -1 group-title='-0+ тв', Россия К ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24
+#EXTINF: -1 group-title='-0+ тв', Россия 24
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24 ( 2)
+#EXTINF: -1 group-title='-0+ тв', Россия 24 ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Россия 24 ( 6)
+#EXTINF: -1 group-title='-0+ тв', Россия 24 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель (-1)
+#EXTINF: -1 group-title='-0+ тв', Карусель (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель
+#EXTINF: -1 group-title='-0+ тв', Карусель
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 2)
+#EXTINF: -1 group-title='-0+ тв', Карусель ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 4)
+#EXTINF: -1 group-title='-0+ тв', Карусель ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 6)
+#EXTINF: -1 group-title='-0+ тв', Карусель ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 7)
+#EXTINF: -1 group-title='-0+ тв', Карусель ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Карусель ( 8)
+#EXTINF: -1 group-title='-0+ тв', Карусель ( 8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ОТР
+#EXTINF: -1 group-title='-0+ тв', ОТР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ (-1)
+#EXTINF: -1 group-title='-0+ тв', ТВЦ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ
+#EXTINF: -1 group-title='-0+ тв', ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 2)
+#EXTINF: -1 group-title='-0+ тв', ТВЦ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 4)
+#EXTINF: -1 group-title='-0+ тв', ТВЦ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 6)
+#EXTINF: -1 group-title='-0+ тв', ТВЦ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВЦ ( 7)
+#EXTINF: -1 group-title='-0+ тв', ТВЦ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ (-1)
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 2)
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 4)
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 6)
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', РЕН ТВ ( 7)
+#EXTINF: -1 group-title='-0+ тв', РЕН ТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС (-1)
+#EXTINF: -1 group-title='-0+ тв', СПАС (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС
+#EXTINF: -1 group-title='-0+ тв', СПАС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 2)
+#EXTINF: -1 group-title='-0+ тв', СПАС ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 4)
+#EXTINF: -1 group-title='-0+ тв', СПАС ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 6)
+#EXTINF: -1 group-title='-0+ тв', СПАС ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СПАС ( 7)
+#EXTINF: -1 group-title='-0+ тв', СПАС ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС (-1)
+#EXTINF: -1 group-title='-0+ тв', СТС (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС
+#EXTINF: -1 group-title='-0+ тв', СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 2)
+#EXTINF: -1 group-title='-0+ тв', СТС ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 4)
+#EXTINF: -1 group-title='-0+ тв', СТС ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 6)
+#EXTINF: -1 group-title='-0+ тв', СТС ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС ( 7)
+#EXTINF: -1 group-title='-0+ тв', СТС ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний (-1)
+#EXTINF: -1 group-title='-0+ тв', Домашний (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний
+#EXTINF: -1 group-title='-0+ тв', Домашний
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 2)
+#EXTINF: -1 group-title='-0+ тв', Домашний ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 4)
+#EXTINF: -1 group-title='-0+ тв', Домашний ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 6)
+#EXTINF: -1 group-title='-0+ тв', Домашний ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Домашний ( 7)
+#EXTINF: -1 group-title='-0+ тв', Домашний ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 (-1)
+#EXTINF: -1 group-title='-0+ тв', ТВ3 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3
+#EXTINF: -1 group-title='-0+ тв', ТВ3
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 4)
+#EXTINF: -1 group-title='-0+ тв', ТВ3 ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 6)
+#EXTINF: -1 group-title='-0+ тв', ТВ3 ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТВ3 ( 7)
+#EXTINF: -1 group-title='-0+ тв', ТВ3 ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! (-1)
+#EXTINF: -1 group-title='-0+ тв', Пятница! (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница!
+#EXTINF: -1 group-title='-0+ тв', Пятница!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 2)
+#EXTINF: -1 group-title='-0+ тв', Пятница! ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 4)
+#EXTINF: -1 group-title='-0+ тв', Пятница! ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 6)
+#EXTINF: -1 group-title='-0+ тв', Пятница! ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Пятница! ( 7)
+#EXTINF: -1 group-title='-0+ тв', Пятница! ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда (-1)
+#EXTINF: -1 group-title='-0+ тв', Звезда (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда
+#EXTINF: -1 group-title='-0+ тв', Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 2)
+#EXTINF: -1 group-title='-0+ тв', Звезда ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 4)
+#EXTINF: -1 group-title='-0+ тв', Звезда ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 6)
+#EXTINF: -1 group-title='-0+ тв', Звезда ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Звезда ( 7)
+#EXTINF: -1 group-title='-0+ тв', Звезда ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР (-1)
+#EXTINF: -1 group-title='-0+ тв', МИР (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР
+#EXTINF: -1 group-title='-0+ тв', МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 2)
+#EXTINF: -1 group-title='-0+ тв', МИР ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 4)
+#EXTINF: -1 group-title='-0+ тв', МИР ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 6)
+#EXTINF: -1 group-title='-0+ тв', МИР ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МИР ( 7)
+#EXTINF: -1 group-title='-0+ тв', МИР ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ (-1)
+#EXTINF: -1 group-title='-0+ тв', ТНТ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ
+#EXTINF: -1 group-title='-0+ тв', ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 2)
+#EXTINF: -1 group-title='-0+ тв', ТНТ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 4)
+#EXTINF: -1 group-title='-0+ тв', ТНТ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 6)
+#EXTINF: -1 group-title='-0+ тв', ТНТ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ ( 7)
+#EXTINF: -1 group-title='-0+ тв', ТНТ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ (-1)
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 2)
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ ( 2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 4)
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ ( 4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 6)
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ ( 6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', МУЗ ТВ ( 7)
+#EXTINF: -1 group-title='-0+ тв', МУЗ ТВ ( 7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! (-1)
+#EXTINF: -1 group-title='-0+ тв', Че! (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че!
+#EXTINF: -1 group-title='-0+ тв', Че!
 http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 2)
+#EXTINF: -1 group-title='-0+ тв', Че! ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 4)
+#EXTINF: -1 group-title='-0+ тв', Че! ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 6)
+#EXTINF: -1 group-title='-0+ тв', Че! ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Че! ( 7)
+#EXTINF: -1 group-title='-0+ тв', Че! ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю (-1)
+#EXTINF: -1 group-title='-0+ тв', Ю (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_U-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю
+#EXTINF: -1 group-title='-0+ тв', Ю
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 2)
+#EXTINF: -1 group-title='-0+ тв', Ю ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_U_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 4)
+#EXTINF: -1 group-title='-0+ тв', Ю ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_U_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 6)
+#EXTINF: -1 group-title='-0+ тв', Ю ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_U_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Ю ( 7)
+#EXTINF: -1 group-title='-0+ тв', Ю ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_U_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love (-1)
+#EXTINF: -1 group-title='-0+ тв', СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love
+#EXTINF: -1 group-title='-0+ тв', СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 2)
+#EXTINF: -1 group-title='-0+ тв', СТС Love ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 4)
+#EXTINF: -1 group-title='-0+ тв', СТС Love ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2
+#EXTINF: -1 group-title='-0+ тв', 2x2
 http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 2)
+#EXTINF: -1 group-title='-0+ тв', 2x2 ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 4)
+#EXTINF: -1 group-title='-0+ тв', 2x2 ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 6)
+#EXTINF: -1 group-title='-0+ тв', 2x2 ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', 2x2 ( 7)
+#EXTINF: -1 group-title='-0+ тв', 2x2 ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! (-1)
+#EXTINF: -1 group-title='-0+ тв', Суббота! (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота!
+#EXTINF: -1 group-title='-0+ тв', Суббота!
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 2)
+#EXTINF: -1 group-title='-0+ тв', Суббота! ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 4)
+#EXTINF: -1 group-title='-0+ тв', Суббота! ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 6)
+#EXTINF: -1 group-title='-0+ тв', Суббота! ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', Суббота! ( 7)
+#EXTINF: -1 group-title='-0+ тв', Суббота! ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 (-1)
+#EXTINF: -1 group-title='-0+ тв', ТНТ4 (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4
+#EXTINF: -1 group-title='-0+ тв', ТНТ4
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 2)
+#EXTINF: -1 group-title='-0+ тв', ТНТ4 ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 4)
+#EXTINF: -1 group-title='-0+ тв', ТНТ4 ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 6)
+#EXTINF: -1 group-title='-0+ тв', ТНТ4 ( 6)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', ТНТ4 ( 7)
+#EXTINF: -1 group-title='-0+ тв', ТНТ4 ( 7)
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 2)
+#EXTINF: -1 group-title='-0+ тв', СТС Love ( 2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='ЭФИРНЫЕ1', СТС Love ( 4)
+#EXTINF: -1 group-title='-0+ тв', СТС Love ( 4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', LIFE TV [RUS/EST]
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUSEST.m3u8
@@ -363,8 +355,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_VSETV.m3u8
 http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', E TV HD
 http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', TVM Channel
-http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Надежда HD720
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Три Ангела
@@ -395,8 +385,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Евроновости
 http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Москва 24
@@ -421,20 +409,12 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Соловьев.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', EuroNews
-http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Новый мир
-https://vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Перец
-https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Калейдоскоп ТВ
 https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', КВН-ТВ
-http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF: -1 group-title='ИНФО:РАЗВЛЕК', E TV
@@ -453,16 +433,6 @@ http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', CINEMA
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', 1FILMAX
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', 2FILMAX
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', ПАМЯТЬ HD
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', УЖАСТИК HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', PROMO HD
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Retrovision Movies
@@ -515,8 +485,6 @@ https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 24
 https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 26
 https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 27
@@ -531,8 +499,6 @@ https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 32
 https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 34
 https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинозалы 35
@@ -541,28 +507,264 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', КИНО ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viju TV1000 Русское
-http://130.193.73.10:8937/play/a02u
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viasat Kino World
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Ретро ТВ
-http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дом кино
 https://streaming.goodstream.cyou/live/44.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Феникс плюс Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2039/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Советское кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6545/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Советская киноклассика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2146/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', О!Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20023/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Наше Новое Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/517/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Наш Кинопоказ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2434/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Мужское Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/164/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Любимое Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/722/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинохит
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/516/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киноужас HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2056/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киносерия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/148/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киносемья
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/125/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киносвидание
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/728/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинопремьера HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/224/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинопоказ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2439/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киномикс
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/509/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Киноман
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2121/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кинокомедия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/145/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', КиноМульт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20009/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Кино ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/732/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Индийское Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/146/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Еврокино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/549/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дом Кино Премиум HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/911/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дом Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/154/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Yosso TV New Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14177/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VeleS Киносерия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31640/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VeleS Киноплёнка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31638/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VF Свердловская киностудия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18124/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VF Рижская киностудия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18123/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VF Одесская киностудия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18120/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', VF Киностудия им. Горького
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18122/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Кино 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18070/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Кино 1 International
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18071/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Кино 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18069/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Детское кино International
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18074/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Детское кино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18073/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Tviksel Военное кино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18072/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', StrahTV Кинодром HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31714/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', PG РуКино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11096/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', MM Роскино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13050/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', MM Кинофестиваль HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31621/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KLI Киносерия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19400/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan РуКино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11013/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viasat Kino World HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31448/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Viasat Kino Megahit HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14141/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Ukraine HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31647/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Thriller HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18055/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18058/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Premiere HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18117/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Mystic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18059/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Kids HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18056/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Drama HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18150/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18057/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Christmas HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16092/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Kinoshka Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18118/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KinoLiving
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16018/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KinoKazka
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15019/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KinoJam 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/7261/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KinoJam 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/7260/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Hay Kino AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/286/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', BCU Kinorating HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11037/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', ATV Kinoman HD AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/282/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', TOP Cinema HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13004/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', KLI Cinema HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16078/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Fresh Cinema
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19287/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Cineman HD AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/283/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Cinema HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19233/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Cinema
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5051/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Фитнес
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31629/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Ужасы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11010/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Скорая Помощь
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15100/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Симпсоны
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15101/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Сваты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11014/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan ПёС + Лихач
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16064/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Ментовские войны
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16063/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Мелодрама
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11008/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Лесник
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16065/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Криминальные Сериалы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31626/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Комедия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11011/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Комедийные Сериалы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31628/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Катастрофы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15106/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan VHS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11012/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Top
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11005/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Thriller
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11007/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Premium
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20112/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan MiniSeries
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19437/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Marvel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11009/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Cartoons Short
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11002/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Cartoons Big
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11003/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Cartoons 90
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11001/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan Action
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11006/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', CineMan
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11004/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', BCU Cinema+ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11030/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', BCU Cinema HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11029/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Шокирующее HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6299/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Хит HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2438/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Ужасы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20178/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Таксистка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18131/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Солдаты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18130/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор След
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18127/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Ментовские войны
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18128/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Мелодрамы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18129/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Комедии
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18137/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Боевики HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20172/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Триколор Анна
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18134/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Приключения HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/920/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Премиальное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/7222/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Наше Мужское HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2440/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Наше HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/915/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', НТВ Хит
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/741/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', НТВ Стиль
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/745/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', НТВ Сериал
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/744/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', НТВ Право
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/743/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Мосфильм. Золотая коллекция
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6392/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Мир Сериала
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/856/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Любимое HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2106/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Криминальное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14033/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Комедия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/733/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Комедийное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/912/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Капитан Фантастика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2098/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Камеди HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2441/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Калейдоскоп ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5037/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дорама HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2131/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Дорама
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1066/index.m3u8
+#EXTINF: -1 group-title='КИНО СЕРИАЛ1', Телекафе
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/865/index.m3u8
 #EXTINF: -1 group-title='ДЕТСКИ1', Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МультСказки HD
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF: -1 group-title='ДЕТСКИ1', Солнце (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY-1.m3u8
 #EXTINF: -1 group-title='ДЕТСКИ1', Солнце
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF: -1 group-title='ДЕТСКИ1', Солнце ( 2)
@@ -583,28 +785,90 @@ http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
 http://dmi3y-tv.ru/hls/CH_ANI.m3u8
 #EXTINF: -1 group-title='ДЕТСКИ1', Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Смайлик ТВ
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF: -1 group-title='ДЕТСКИ1', 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МУЛЬТ HD
-http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
-#EXTINF: -1 group-title='ДЕТСКИ1', МАМА
-http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
-#EXTINF: -1 group-title='Познаватель1', Вот ТВ HD
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF: -1 group-title='Познаватель1', 12 Канал HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF: -1 group-title='Познаватель1', Аист
+#EXTINF: -1 group-title='ДЕТСКИ1', Аист
 http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Ani
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/129/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Триколор Три кота
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18132/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Триколор Советские мультфильмы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18135/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Триколор Смешарики
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18136/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Солнце
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/872/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Мультимузыка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/749/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Мультиландия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5055/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Мульт HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/921/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Мульт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/909/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Мама
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/704/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Лёва HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15098/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Лапки Live HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2028/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Детский мир
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/543/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', В гостях у сказки
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/737/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Yosso TV Союзмульт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14178/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Yosso TV Наше Детское
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19433/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Yosso TV Kids
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14173/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Yosso TV Disney
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20164/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VeleS Kids
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31646/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Союзмультфильм
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14238/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Новогодние мультфильмы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15523/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Мультфильмы СССР
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10086/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Мультуб
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15520/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Малыш
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11123/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Ералаш
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14163/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Disney Movie
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15010/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Disney Cartoon
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15027/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', VF Cartoon
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10002/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Tiji TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/108/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', StrahTV Том и Джерри
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31721/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', StrahTV Ералаш HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11058/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', KLI Мультики HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20048/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', KLI Kids HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20047/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Gulli Girl
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/109/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Fresh Kids
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19288/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', Dosug TV Kids HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14214/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', BCU Kids+ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11036/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', BCU Kids HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11035/index.m3u8
+#EXTINF: -1 group-title='ДЕТСКИ1', 2x2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/702/index.m3u8
 #EXTINF: -1 group-title='Познаватель1', Теледом ТВ
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF: -1 group-title='Познаватель1', к16
@@ -631,8 +895,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF: -1 group-title='Познаватель1', Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF: -1 group-title='Познаватель1', Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF: -1 group-title='Познаватель1', МосОбр ТВ
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF: -1 group-title='Познаватель1', Нано
@@ -641,8 +903,6 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF: -1 group-title='Познаватель1', Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познаватель1', RT Doc
-https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF: -1 group-title='Познаватель1', Эхо TV
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF: -1 group-title='Познаватель1', Star Media
@@ -651,40 +911,136 @@ https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='Познаватель1', Документалка 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познаватель1', Viju Nature
-http://130.193.73.10:8937/play/a01k
-#EXTINF: -1 group-title='Познаватель1', Viju Explore
-http://130.193.73.10:8937/play/a01j
-#EXTINF: -1 group-title='Познаватель1', Viju+ Planet HD
-http://130.193.73.10:8937/play/a01l
-#EXTINF: -1 group-title='Познаватель1', Terra HD
-http://130.193.73.10:8937/play/a01g
-#EXTINF: -1 group-title='Познаватель1', Nat Geo Wild СНГ HD
-http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF: -1 group-title='Познаватель1', ТСВ
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF: -1 group-title='Познаватель1', Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF: -1 group-title='Познаватель1', Домашние животные
-http://130.193.73.10:8937/play/a02d
 #EXTINF: -1 group-title='Познаватель1', Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='Познаватель1', 360° Международный HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF: -1 group-title='Познаватель1', Первый Космический HD
 http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='Познаватель1', Усадьба
-http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF: -1 group-title='Познаватель1', Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF: -1 group-title='Познаватель1', Big Planet
-http://109.200.130.123:7537/play/a02j
 #EXTINF: -1 group-title='Познаватель1', RTG HD
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF: -1 group-title='Познаватель1', RTG TV
 http://178.124.152.238:8088/rtg
+#EXTINF: -1 group-title='Познаватель1', Дикая рыбалка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2005/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Диалоги о рыбалке
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2394/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16138/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Охота и рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2019/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Дикая охота HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2004/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Охота
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15513/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Animal Planet
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/137/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Discovery Science PL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/136/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Discovery Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/140/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Усадьба
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/532/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Телепутешествия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2051/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Первый космический HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/908/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Океан HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/703/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Моя Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/117/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', История
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/111/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Зоо ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2100/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Загородная Жизнь
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/852/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Живая природа HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2074/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Живая Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2101/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Домашние Животные
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/158/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Глазами Туриста HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2104/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Вопросы и ответы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2026/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', В мире животных HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2089/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Большая Азия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2009/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Бобёр
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/725/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Zоопарк
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/731/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Z!Travel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17063/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Z!History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31695/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Z!Biography HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31697/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Z!Adventure HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31698/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Yosso TV Travel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31619/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Yosso TV Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31618/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Yosso TV Food
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31616/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Yosso TV Adrenaline
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15105/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Viju+ Planet HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9027/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Viju Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/161/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Viju History
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/162/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Viju Explore
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/163/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Стройка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16139/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Путешествия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15515/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Привет из 90х
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17011/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Орел и решка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31476/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', VF Домашний повар
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15514/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', TravelXP HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15018/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Travel+Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/850/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Travel Channel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/233/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Top Secret
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/121/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', The Explorers HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16035/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', TLC HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/232/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', TERRA
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/230/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', National Geographic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14000/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Nat Geo Wild
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/133/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Nano
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2081/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Luxury
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5032/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/231/index.m3u8
+#EXTINF: -1 group-title='Познаватель1', History 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1052/index.m3u8
 #EXTINF: -1 group-title='СПОРТ1', Матч! (Архив)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF: -1 group-title='СПОРТ1', Матч ТВ
@@ -711,18 +1067,1372 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF: -1 group-title='СПОРТ1', Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF: -1 group-title='СПОРТ1', Мир баскетбола
-http://130.193.73.10:8937/play/a04m
-#EXTINF: -1 group-title='СПОРТ1', Extreme sports
-http://109.200.130.123:7537/play/a02p
-#EXTINF: -1 group-title='СПОРТ1', IMPACT Wrestling
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF: -1 group-title='СПОРТ1', A21 Network
 https://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF: -1 group-title='СПОРТ1', Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF: -1 group-title='СПОРТ1', Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Футбол 3
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/522/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Футбол 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/530/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Футбол 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/124/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Страна
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/107/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Премьер
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/531/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/123/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Игра
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/529/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Боец
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/150/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч! Арена
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/528/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/212/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч ТВ +8
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6052/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч ТВ +4
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6023/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч ТВ +2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6012/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Матч ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/535/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Спорт HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31612/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', MM Спорт HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13054/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Футбол HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19244/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Футбол
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5050/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Футбол 5 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31614/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Футбол 4 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31613/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Футбол 3 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31504/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Футбол 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31505/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Megogo Футбол 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31483/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Хоккей ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10039/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Удар HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19246/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Мяч HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10058/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Мир Баскетбола
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10033/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Бокс ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19245/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Бокс ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/870/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Авто Плюс
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/151/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Авто 24
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/538/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Viju+ Sport
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/160/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', V Sport Ultra HD SE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19163/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tring Sport 3 HD AL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31565/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tring Sport 2 HD AL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31564/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tring Sport 1 HD AL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31563/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Trace Sport Stars HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14030/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', TNT Sports CL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19052/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', TNT Sports 4 HD UK
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19054/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', SuperSport Rugby ZA
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31591/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sportdigital Fussball HD DE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19026/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sport TV+ HD PT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31590/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sport Live HD DK
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31589/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sport Extra HD RO
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31595/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sport 2 HD HU
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31569/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sport 1 HD HU
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31568/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sports Tennis HD 50 UK
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6546/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport NBA HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19134/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport MotoGP HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19133/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport Golf HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19132/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport Arena HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19128/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport 24 HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19127/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 2 HD KZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16025/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/270/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6544/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 1 HD KZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16026/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/271/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Setanta Sports 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6543/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', QazSport HD KZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14032/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Q Sport.KG HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15238/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Nova Sport 4 HD CZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31571/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Nova Sport 3 HD CZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31570/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Fox Sports HD MX
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19139/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Fox Sports HD AR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19138/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Fox Sports 506 HD AU
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19143/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Fox Sports 501 Cricket HD AU
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19146/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Fast Sports HD AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15507/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', FanDuel Sports North US
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19152/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', FanDuel Sports Midwest US
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19153/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Extreme Sports HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20028/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Extreme Sports
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/144/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Eurosport 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/234/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Eurosport 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/228/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Eurosport 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/141/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 7 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31577/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 6 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31576/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 5 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31575/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 3 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31574/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 2 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31573/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cytavision Sports 1 GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31572/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport Highlights HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31588/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 9 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31587/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 8 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31586/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 7 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31585/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 6 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31584/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 5 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31583/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 4 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31582/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 3 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31581/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 2 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31579/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Cosmote Sport 1 HD GR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31578/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 7 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31649/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 6 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31648/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 5 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20170/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 4 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20169/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 3 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20168/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20167/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast Live 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20166/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', BOX SportCast HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31650/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Auto Motor und Sport HD DE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19025/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 9 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31610/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 8 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31609/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 7 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31608/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 6 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31607/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 5 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31606/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 4 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31605/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 3 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31603/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 1x2 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31611/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 1 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31602/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Esport HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31597/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tivibu Spor HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19075/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tivibu Spor 3 HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19076/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Tivibu Spor 1 HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19074/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', TRT Spor TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19067/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', TRT Spor HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19072/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Spor Smart HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20060/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Spor Smart 2 HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19073/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', A Spor HD TR
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19069/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Sky Sport Arena HD IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19128/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 9 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31610/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 8 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31609/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 7 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31608/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 6 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31607/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 5 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31606/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 4 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31605/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 3 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31603/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 1x2 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31611/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Sport 1 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31602/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Esport HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31597/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Premium 3 RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31604/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Premium 3 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31601/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Premium 2 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31600/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Premium 1 HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31599/index.m3u8
+#EXTINF: -1 group-title='СПОРТ1', Arena Fight HD RS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31598/index.m3u8
+#EXTINF: -1 group-title='разные', Триколор Вне закона
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18133/index.m3u8
+#EXTINF: -1 group-title='разные', Триколор Взвешенные люди HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18126/index.m3u8
+#EXTINF: -1 group-title='разные', Точка Отрыва
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/159/index.m3u8
+#EXTINF: -1 group-title='разные', Танцуй!
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14023/index.m3u8
+#EXTINF: -1 group-title='разные', Тайна
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2059/index.m3u8
+#EXTINF: -1 group-title='разные', Победа
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2003/index.m3u8
+#EXTINF: -1 group-title='разные', Перец International
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15227/index.m3u8
+#EXTINF: -1 group-title='разные', Остросюжетное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/904/index.m3u8
+#EXTINF: -1 group-title='разные', Оружие
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2087/index.m3u8
+#EXTINF: -1 group-title='разные', Неизвестная Россия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16087/index.m3u8
+#EXTINF: -1 group-title='разные', Наша Тема
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2118/index.m3u8
+#EXTINF: -1 group-title='разные', Наука HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2155/index.m3u8
+#EXTINF: -1 group-title='разные', Настоящее время HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9179/index.m3u8
+#EXTINF: -1 group-title='разные', Нано ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2135/index.m3u8
+#EXTINF: -1 group-title='разные', Надежда HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2153/index.m3u8
+#EXTINF: -1 group-title='разные', НСТ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/726/index.m3u8
+#EXTINF: -1 group-title='разные', Мы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6001/index.m3u8
+#EXTINF: -1 group-title='разные', Мужской
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2047/index.m3u8
+#EXTINF: -1 group-title='разные', Моя Стихия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9221/index.m3u8
+#EXTINF: -1 group-title='разные', Москва доверие
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/869/index.m3u8
+#EXTINF: -1 group-title='разные', Мир Вокруг HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15219/index.m3u8
+#EXTINF: -1 group-title='разные', Лавстори HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2034/index.m3u8
+#EXTINF: -1 group-title='разные', Кухня
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/152/index.m3u8
+#EXTINF: -1 group-title='разные', Кто Куда
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2112/index.m3u8
+#EXTINF: -1 group-title='разные', Конгресс ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2176/index.m3u8
+#EXTINF: -1 group-title='разные', Ключ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20041/index.m3u8
+#EXTINF: -1 group-title='разные', Кинеко
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/550/index.m3u8
+#EXTINF: -1 group-title='разные', Индия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1001/index.m3u8
+#EXTINF: -1 group-title='разные', Иллюзион+
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2038/index.m3u8
+#EXTINF: -1 group-title='разные', Зал Суда HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/7141/index.m3u8
+#EXTINF: -1 group-title='разные', Душевное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/914/index.m3u8
+#EXTINF: -1 group-title='разные', Драйв
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2021/index.m3u8
+#EXTINF: -1 group-title='разные', Дикий
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/847/index.m3u8
+#EXTINF: -1 group-title='разные', День Победы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5054/index.m3u8
+#EXTINF: -1 group-title='разные', Время
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/552/index.m3u8
+#EXTINF: -1 group-title='разные', Большой Эфир HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14012/index.m3u8
+#EXTINF: -1 group-title='разные', Блокбастер HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2436/index.m3u8
+#EXTINF: -1 group-title='разные', Арт
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16141/index.m3u8
+#EXTINF: -1 group-title='разные', Арсенал HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5044/index.m3u8
+#EXTINF: -1 group-title='разные', Анекдот ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5034/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Thriller HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31693/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Smile HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15142/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Sitcom HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15141/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15140/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Science HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31705/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31704/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Military HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31696/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Horror HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14137/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Fun HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31706/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Fantasy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31703/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Fantastic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31702/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Family HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31701/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Drama HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31700/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Detective HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31699/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Crime HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14136/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14135/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Channel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14134/index.m3u8
+#EXTINF: -1 group-title='разные', Z!Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31694/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Трагичное
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14219/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Советские Фильмы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14175/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Русские Фильмы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14174/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Мелодрама
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19434/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Ковбойское
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14235/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Забавное
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14234/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV VHS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14172/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Thriller
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15168/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Science
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31617/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Oblivion
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15509/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Netflix
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20163/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Grand
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14171/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Best 60fps
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20165/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Best
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14236/index.m3u8
+#EXTINF: -1 group-title='разные', Yosso TV Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15510/index.m3u8
+#EXTINF: -1 group-title='разные', Yerkir Media HD AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/608/index.m3u8
+#EXTINF: -1 group-title='разные', Yerkir Media AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15209/index.m3u8
+#EXTINF: -1 group-title='разные', World Fashion Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1068/index.m3u8
+#EXTINF: -1 group-title='разные', WOW!TV HD SV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14168/index.m3u8
+#EXTINF: -1 group-title='разные', Viju+ Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2443/index.m3u8
+#EXTINF: -1 group-title='разные', Viju+ Premiere HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/202/index.m3u8
+#EXTINF: -1 group-title='разные', Viju+ Megahit HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/201/index.m3u8
+#EXTINF: -1 group-title='разные', Viju+ Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/200/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 Русское HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6388/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 Русское
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/101/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 Новелла HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2002/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6387/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6386/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000 Action
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/131/index.m3u8
+#EXTINF: -1 group-title='разные', Viju TV1000
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/132/index.m3u8
+#EXTINF: -1 group-title='разные', Viasat Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17056/index.m3u8
+#EXTINF: -1 group-title='разные', ViaPlay Football SE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5078/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS Страшное
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31642/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS СССР
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31643/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS Магнитофон
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31645/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS Premiere
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31641/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS Movie Hits
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31644/index.m3u8
+#EXTINF: -1 group-title='разные', VeleS 60fps
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31637/index.m3u8
+#EXTINF: -1 group-title='разные', VHS-ка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5006/index.m3u8
+#EXTINF: -1 group-title='разные', VF Юмор 18+
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16137/index.m3u8
+#EXTINF: -1 group-title='разные', VF Эльдар Рязанов
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17012/index.m3u8
+#EXTINF: -1 group-title='разные', VF Чернобыль
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17001/index.m3u8
+#EXTINF: -1 group-title='разные', VF Фильмы СССР
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10085/index.m3u8
+#EXTINF: -1 group-title='разные', VF Уральские пельмени
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18198/index.m3u8
+#EXTINF: -1 group-title='разные', VF Универ новая общага
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17013/index.m3u8
+#EXTINF: -1 group-title='разные', VF Универ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13084/index.m3u8
+#EXTINF: -1 group-title='разные', VF Ужасы VHS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10010/index.m3u8
+#EXTINF: -1 group-title='разные', VF Ужасы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10008/index.m3u8
+#EXTINF: -1 group-title='разные', VF Теория большого взрыва
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15009/index.m3u8
+#EXTINF: -1 group-title='разные', VF Тайны следствия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13082/index.m3u8
+#EXTINF: -1 group-title='разные', VF Счастливы Вместе
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9242/index.m3u8
+#EXTINF: -1 group-title='разные', VF Солдаты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13081/index.m3u8
+#EXTINF: -1 group-title='разные', VF След
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13086/index.m3u8
+#EXTINF: -1 group-title='разные', VF Скуби-Ду
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17007/index.m3u8
+#EXTINF: -1 group-title='разные', VF Сериалы Турции
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9123/index.m3u8
+#EXTINF: -1 group-title='разные', VF Сериал
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13087/index.m3u8
+#EXTINF: -1 group-title='разные', VF Секс в большом городе
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14224/index.m3u8
+#EXTINF: -1 group-title='разные', VF Сверхъестественное
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17003/index.m3u8
+#EXTINF: -1 group-title='разные', VF Сваты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13080/index.m3u8
+#EXTINF: -1 group-title='разные', VF СашаТаня
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17008/index.m3u8
+#EXTINF: -1 group-title='разные', VF С новым годом!
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15524/index.m3u8
+#EXTINF: -1 group-title='разные', VF Рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16138/index.m3u8
+#EXTINF: -1 group-title='разные', VF Реальные пацаны
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17015/index.m3u8
+#EXTINF: -1 group-title='разные', VF Премьера
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10051/index.m3u8
+#EXTINF: -1 group-title='разные', VF Охота
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15513/index.m3u8
+#EXTINF: -1 group-title='разные', VF Оскар
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11122/index.m3u8
+#EXTINF: -1 group-title='разные', VF Однажды в России
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19286/index.m3u8
+#EXTINF: -1 group-title='разные', VF Новогодний
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17035/index.m3u8
+#EXTINF: -1 group-title='разные', VF Наша победа
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10083/index.m3u8
+#EXTINF: -1 group-title='разные', VF Наша Раша
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17010/index.m3u8
+#EXTINF: -1 group-title='разные', VF Мыльные оперы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13088/index.m3u8
+#EXTINF: -1 group-title='разные', VF Мосфильм
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10084/index.m3u8
+#EXTINF: -1 group-title='разные', VF Маски Шоу
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31556/index.m3u8
+#EXTINF: -1 group-title='разные', VF Луи де Фюнес
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17000/index.m3u8
+#EXTINF: -1 group-title='разные', VF Леонид Гайдай
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17004/index.m3u8
+#EXTINF: -1 group-title='разные', VF Ленфильм
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18121/index.m3u8
+#EXTINF: -1 group-title='разные', VF Кухня
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18199/index.m3u8
+#EXTINF: -1 group-title='разные', VF Криминал
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13093/index.m3u8
+#EXTINF: -1 group-title='разные', VF Концерты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14159/index.m3u8
+#EXTINF: -1 group-title='разные', VF Комедия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10055/index.m3u8
+#EXTINF: -1 group-title='разные', VF Клиника
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13094/index.m3u8
+#EXTINF: -1 group-title='разные', VF Классика
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10053/index.m3u8
+#EXTINF: -1 group-title='разные', VF Катастрофы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10080/index.m3u8
+#EXTINF: -1 group-title='разные', VF Карточный домик
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14221/index.m3u8
+#EXTINF: -1 group-title='разные', VF Каламбур
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31557/index.m3u8
+#EXTINF: -1 group-title='разные', VF КВН
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14170/index.m3u8
+#EXTINF: -1 group-title='разные', VF История
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13091/index.m3u8
+#EXTINF: -1 group-title='разные', VF Индия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13090/index.m3u8
+#EXTINF: -1 group-title='разные', VF Игра престолов
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18119/index.m3u8
+#EXTINF: -1 group-title='разные', VF Друзья
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17006/index.m3u8
+#EXTINF: -1 group-title='разные', VF Доктор Хаус
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17016/index.m3u8
+#EXTINF: -1 group-title='разные', VF Джеки Чан
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17009/index.m3u8
+#EXTINF: -1 group-title='разные', VF Два с половиной человека
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10062/index.m3u8
+#EXTINF: -1 group-title='разные', VF Городок
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18097/index.m3u8
+#EXTINF: -1 group-title='разные', VF Гарри Поттер
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14230/index.m3u8
+#EXTINF: -1 group-title='разные', VF Воронины
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13083/index.m3u8
+#EXTINF: -1 group-title='разные', VF Военные
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10082/index.m3u8
+#EXTINF: -1 group-title='разные', VF Владимир Высоцкий
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10066/index.m3u8
+#EXTINF: -1 group-title='разные', VF Вестерн
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31553/index.m3u8
+#EXTINF: -1 group-title='разные', VF Боевик
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10087/index.m3u8
+#EXTINF: -1 group-title='разные', VF Бесстыжие
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10075/index.m3u8
+#EXTINF: -1 group-title='разные', VF Беларусьфильм
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18125/index.m3u8
+#EXTINF: -1 group-title='разные', VF Без цензуры
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17017/index.m3u8
+#EXTINF: -1 group-title='разные', VF Баня
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18200/index.m3u8
+#EXTINF: -1 group-title='разные', VF Американская история ужасов
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17005/index.m3u8
+#EXTINF: -1 group-title='разные', VF Авто
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15511/index.m3u8
+#EXTINF: -1 group-title='разные', VF Ёлки
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14222/index.m3u8
+#EXTINF: -1 group-title='разные', VF VHS MIX
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10009/index.m3u8
+#EXTINF: -1 group-title='разные', VF VHS Cartoon
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11118/index.m3u8
+#EXTINF: -1 group-title='разные', VF Thriller
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13089/index.m3u8
+#EXTINF: -1 group-title='разные', VF The X-Files
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17002/index.m3u8
+#EXTINF: -1 group-title='разные', VF TOP Series
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11116/index.m3u8
+#EXTINF: -1 group-title='разные', VF Series
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13085/index.m3u8
+#EXTINF: -1 group-title='разные', VF Premiere
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10052/index.m3u8
+#EXTINF: -1 group-title='разные', VF New Year
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15522/index.m3u8
+#EXTINF: -1 group-title='разные', VF Netflix
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19427/index.m3u8
+#EXTINF: -1 group-title='разные', VF Mystic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10007/index.m3u8
+#EXTINF: -1 group-title='разные', VF Melodrama
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10006/index.m3u8
+#EXTINF: -1 group-title='разные', VF Marvel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10081/index.m3u8
+#EXTINF: -1 group-title='разные', VF HBO
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19428/index.m3u8
+#EXTINF: -1 group-title='разные', VF Fantasy
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10005/index.m3u8
+#EXTINF: -1 group-title='разные', VF Fantastic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11121/index.m3u8
+#EXTINF: -1 group-title='разные', VF Family
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10004/index.m3u8
+#EXTINF: -1 group-title='разные', VF Detective
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11120/index.m3u8
+#EXTINF: -1 group-title='разные', VF Comics
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13092/index.m3u8
+#EXTINF: -1 group-title='разные', VF Comedy Woman
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18101/index.m3u8
+#EXTINF: -1 group-title='разные', VF Comedy
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10003/index.m3u8
+#EXTINF: -1 group-title='разные', VF Classic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10054/index.m3u8
+#EXTINF: -1 group-title='разные', VF Art house
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11119/index.m3u8
+#EXTINF: -1 group-title='разные', VF Anime
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10001/index.m3u8
+#EXTINF: -1 group-title='разные', VF Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10000/index.m3u8
+#EXTINF: -1 group-title='разные', VB Спецназ-Диверсант HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20176/index.m3u8
+#EXTINF: -1 group-title='разные', VB Сваты HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31624/index.m3u8
+#EXTINF: -1 group-title='разные', VB Российские Сериалы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18043/index.m3u8
+#EXTINF: -1 group-title='разные', VB Осторожно Модерн
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16005/index.m3u8
+#EXTINF: -1 group-title='разные', VB ОСП-Студия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16004/index.m3u8
+#EXTINF: -1 group-title='разные', VB Назад в СССР HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20175/index.m3u8
+#EXTINF: -1 group-title='разные', VB Контент Моего Детства
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20001/index.m3u8
+#EXTINF: -1 group-title='разные', VB VHS Classic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19429/index.m3u8
+#EXTINF: -1 group-title='разные', Univer TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15113/index.m3u8
+#EXTINF: -1 group-title='разные', Trash HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6396/index.m3u8
+#EXTINF: -1 group-title='разные', Timeless Dizi Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14006/index.m3u8
+#EXTINF: -1 group-title='разные', TVRUS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14022/index.m3u8
+#EXTINF: -1 group-title='разные', TOP Великолепный Век HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13001/index.m3u8
+#EXTINF: -1 group-title='разные', TOP USSR HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13005/index.m3u8
+#EXTINF: -1 group-title='разные', TOP MIX HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13006/index.m3u8
+#EXTINF: -1 group-title='разные', TOP BUDO HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13003/index.m3u8
+#EXTINF: -1 group-title='разные', TOP 80 S HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13002/index.m3u8
+#EXTINF: -1 group-title='разные', Suspense HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2049/index.m3u8
+#EXTINF: -1 group-title='разные', Super Tennis IT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19136/index.m3u8
+#EXTINF: -1 group-title='разные', Sumiko HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2163/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Юнит HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11071/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Хит HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11064/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Фантастика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11070/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Фантастика 2.0 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31722/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Универ ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11063/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Страх HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11069/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Страх 2.0 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31720/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Сваты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11062/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV СССР
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11061/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Репка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31719/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Ольга HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31718/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Однажды в милиции
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31717/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Назад в 90-e
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11067/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Кроха ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11066/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Космо HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11065/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Коломбо
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31713/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Интерны ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11060/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Громовы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31712/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Весёлая Карусель HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11057/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Байки из склепа
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31711/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV WWE Russian
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11056/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV VHS HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11059/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV The X-Files
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11055/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV MMA TIME HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31710/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Lost HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11053/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Horror HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31708/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Bond 007
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31715/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Best Films HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11050/index.m3u8
+#EXTINF: -1 group-title='разные', StrahTV Alladin
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11054/index.m3u8
+#EXTINF: -1 group-title='разные', Sochi Live HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16038/index.m3u8
+#EXTINF: -1 group-title='разные', Silk Way HD KZ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20044/index.m3u8
+#EXTINF: -1 group-title='разные', Shot TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20022/index.m3u8
+#EXTINF: -1 group-title='разные', Shot TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/526/index.m3u8
+#EXTINF: -1 group-title='разные', Scream HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20021/index.m3u8
+#EXTINF: -1 group-title='разные', START World HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19248/index.m3u8
+#EXTINF: -1 group-title='разные', START Air HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18036/index.m3u8
+#EXTINF: -1 group-title='разные', SONGTV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/300/index.m3u8
+#EXTINF: -1 group-title='разные', Russian Extreme HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2077/index.m3u8
+#EXTINF: -1 group-title='разные', Romance HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2037/index.m3u8
+#EXTINF: -1 group-title='разные', Red Bull TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16040/index.m3u8
+#EXTINF: -1 group-title='разные', Red Bull TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16039/index.m3u8
+#EXTINF: -1 group-title='разные', RTG TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/841/index.m3u8
+#EXTINF: -1 group-title='разные', RTG HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/210/index.m3u8
+#EXTINF: -1 group-title='разные', Nickelodeon
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/541/index.m3u8
+#EXTINF: -1 group-title='разные', NickToons HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/849/index.m3u8
+#EXTINF: -1 group-title='разные', Nick Jr
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/114/index.m3u8
+#EXTINF: -1 group-title='разные', NOW Series HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15102/index.m3u8
+#EXTINF: -1 group-title='разные', MyZen TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20011/index.m3u8
+#EXTINF: -1 group-title='разные', Museum TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20032/index.m3u8
+#EXTINF: -1 group-title='разные', Megogo Гонг HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31503/index.m3u8
+#EXTINF: -1 group-title='разные', Magic VHS HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18062/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Thriller HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18065/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31630/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Love HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18171/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Karate HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18061/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Horror HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18068/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Galaxy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18067/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Family HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18170/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Disney HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18064/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18063/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Christmas HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14240/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Adventure HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20141/index.m3u8
+#EXTINF: -1 group-title='разные', Magic Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18066/index.m3u8
+#EXTINF: -1 group-title='разные', MYTV Kids
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19409/index.m3u8
+#EXTINF: -1 group-title='разные', MYTV HIT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19410/index.m3u8
+#EXTINF: -1 group-title='разные', MYTV 3
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19411/index.m3u8
+#EXTINF: -1 group-title='разные', MYTV 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19408/index.m3u8
+#EXTINF: -1 group-title='разные', MYTV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19407/index.m3u8
+#EXTINF: -1 group-title='разные', MS Young Blood HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16147/index.m3u8
+#EXTINF: -1 group-title='разные', MS Toons HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15138/index.m3u8
+#EXTINF: -1 group-title='разные', MS Prisons HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15137/index.m3u8
+#EXTINF: -1 group-title='разные', MS Animated HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17024/index.m3u8
+#EXTINF: -1 group-title='разные', MMA-TV.com HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19243/index.m3u8
+#EXTINF: -1 group-title='разные', MMA-TV.com
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/843/index.m3u8
+#EXTINF: -1 group-title='разные', MM Фобия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13063/index.m3u8
+#EXTINF: -1 group-title='разные', MM Фантастика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13062/index.m3u8
+#EXTINF: -1 group-title='разные', MM Ужасы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13099/index.m3u8
+#EXTINF: -1 group-title='разные', MM Ужасы Classic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14128/index.m3u8
+#EXTINF: -1 group-title='разные', MM Ужастик HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13059/index.m3u8
+#EXTINF: -1 group-title='разные', MM Триллер HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13058/index.m3u8
+#EXTINF: -1 group-title='разные', MM Супергерои HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13056/index.m3u8
+#EXTINF: -1 group-title='разные', MM Стивен Кинг HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13055/index.m3u8
+#EXTINF: -1 group-title='разные', MM Скорость HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13053/index.m3u8
+#EXTINF: -1 group-title='разные', MM Ситком HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13052/index.m3u8
+#EXTINF: -1 group-title='разные', MM Ситком 2.0 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13046/index.m3u8
+#EXTINF: -1 group-title='разные', MM Синематограф HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13061/index.m3u8
+#EXTINF: -1 group-title='разные', MM Семейный 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13098/index.m3u8
+#EXTINF: -1 group-title='разные', MM Семейный 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13097/index.m3u8
+#EXTINF: -1 group-title='разные', MM Сваты HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13051/index.m3u8
+#EXTINF: -1 group-title='разные', MM Приключения HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13048/index.m3u8
+#EXTINF: -1 group-title='разные', MM Полицейский с Рублёвки HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13049/index.m3u8
+#EXTINF: -1 group-title='разные', MM Погружение HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13047/index.m3u8
+#EXTINF: -1 group-title='разные', MM Открытия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19415/index.m3u8
+#EXTINF: -1 group-title='разные', MM Нуар HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13045/index.m3u8
+#EXTINF: -1 group-title='разные', MM Мифология HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13044/index.m3u8
+#EXTINF: -1 group-title='разные', MM Микромир HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18193/index.m3u8
+#EXTINF: -1 group-title='разные', MM Мегамир HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18195/index.m3u8
+#EXTINF: -1 group-title='разные', MM Макромир HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18194/index.m3u8
+#EXTINF: -1 group-title='разные', MM Кунг-Фу HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13041/index.m3u8
+#EXTINF: -1 group-title='разные', MM Крутые 90-е HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13040/index.m3u8
+#EXTINF: -1 group-title='разные', MM Криминал HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13039/index.m3u8
+#EXTINF: -1 group-title='разные', MM Комедия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13038/index.m3u8
+#EXTINF: -1 group-title='разные', MM Комедия Classic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13037/index.m3u8
+#EXTINF: -1 group-title='разные', MM Киберпанк HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13036/index.m3u8
+#EXTINF: -1 group-title='разные', MM Квартирник HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13035/index.m3u8
+#EXTINF: -1 group-title='разные', MM Катастрофа HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13034/index.m3u8
+#EXTINF: -1 group-title='разные', MM История HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13033/index.m3u8
+#EXTINF: -1 group-title='разные', MM Затмение HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13032/index.m3u8
+#EXTINF: -1 group-title='разные', MM Драма HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16086/index.m3u8
+#EXTINF: -1 group-title='разные', MM Грайндхаус HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13025/index.m3u8
+#EXTINF: -1 group-title='разные', MM Воронины HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13031/index.m3u8
+#EXTINF: -1 group-title='разные', MM Вестерн HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13029/index.m3u8
+#EXTINF: -1 group-title='разные', MM Боевик HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13028/index.m3u8
+#EXTINF: -1 group-title='разные', MM Боевик Classic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13027/index.m3u8
+#EXTINF: -1 group-title='разные', MM Агата Кристи HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13024/index.m3u8
+#EXTINF: -1 group-title='разные', MM World Hits HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13023/index.m3u8
+#EXTINF: -1 group-title='разные', MM Walt Disney HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13064/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Сказки HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13021/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Приключения HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13060/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Мультфильм HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13020/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Комедия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13019/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Драма HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13022/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR Детектив HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13096/index.m3u8
+#EXTINF: -1 group-title='разные', MM USSR 1941-1945 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13018/index.m3u8
+#EXTINF: -1 group-title='разные', MM UFO HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13017/index.m3u8
+#EXTINF: -1 group-title='разные', MM Translation HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18196/index.m3u8
+#EXTINF: -1 group-title='разные', MM Tom and Jerry HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13016/index.m3u8
+#EXTINF: -1 group-title='разные', MM Smile HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13043/index.m3u8
+#EXTINF: -1 group-title='разные', MM Rock HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13015/index.m3u8
+#EXTINF: -1 group-title='разные', MM OldSchool HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19413/index.m3u8
+#EXTINF: -1 group-title='разные', MM NewFilm RU HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13014/index.m3u8
+#EXTINF: -1 group-title='разные', MM NewFilm 3 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13013/index.m3u8
+#EXTINF: -1 group-title='разные', MM NewFilm 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13012/index.m3u8
+#EXTINF: -1 group-title='разные', MM NewFilm 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13011/index.m3u8
+#EXTINF: -1 group-title='разные', MM Love HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13010/index.m3u8
+#EXTINF: -1 group-title='разные', MM Live Planet HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13095/index.m3u8
+#EXTINF: -1 group-title='разные', MM Lesson HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13042/index.m3u8
+#EXTINF: -1 group-title='разные', MM Honey HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13026/index.m3u8
+#EXTINF: -1 group-title='разные', MM Flip UHD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13057/index.m3u8
+#EXTINF: -1 group-title='разные', MM Family Guy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19414/index.m3u8
+#EXTINF: -1 group-title='разные', MM Experiment HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19412/index.m3u8
+#EXTINF: -1 group-title='разные', MM Classic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16085/index.m3u8
+#EXTINF: -1 group-title='разные', MM Celebrity HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16084/index.m3u8
+#EXTINF: -1 group-title='разные', MM 007 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/13009/index.m3u8
+#EXTINF: -1 group-title='разные', Liberty Занавес  HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17028/index.m3u8
+#EXTINF: -1 group-title='разные', LFC TV UK
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31596/index.m3u8
+#EXTINF: -1 group-title='разные', Kids TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20008/index.m3u8
+#EXTINF: -1 group-title='разные', KLI СССР HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18175/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Новинки HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31633/index.m3u8
+#EXTINF: -1 group-title='разные', KLI VHS HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18173/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Thriller HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18174/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18049/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Retro HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18177/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Relax HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31636/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Premium HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18048/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Netflix HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20177/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Millennium HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31631/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Marvel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31632/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Humor HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20052/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Horror HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20050/index.m3u8
+#EXTINF: -1 group-title='разные', KLI History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18047/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Franchise HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31634/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Fantasy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20054/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Fantastic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18050/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Family HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18176/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Drama HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20053/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Docu HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20143/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16080/index.m3u8
+#EXTINF: -1 group-title='разные', KLI Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20051/index.m3u8
+#EXTINF: -1 group-title='разные', KION Хит HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20211/index.m3u8
+#EXTINF: -1 group-title='разные', KHL Prime HD 50
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10028/index.m3u8
+#EXTINF: -1 group-title='разные', KHL Prime HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19396/index.m3u8
+#EXTINF: -1 group-title='разные', KHL HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/215/index.m3u8
+#EXTINF: -1 group-title='разные', KHL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/519/index.m3u8
+#EXTINF: -1 group-title='разные', JimJam
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/138/index.m3u8
+#EXTINF: -1 group-title='разные', Jan TV AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/285/index.m3u8
+#EXTINF: -1 group-title='разные', Hollywood HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/209/index.m3u8
+#EXTINF: -1 group-title='разные', Hollywood
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/557/index.m3u8
+#EXTINF: -1 group-title='разные', HGTV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6391/index.m3u8
+#EXTINF: -1 group-title='разные', H2 AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15204/index.m3u8
+#EXTINF: -1 group-title='разные', Galaxy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5045/index.m3u8
+#EXTINF: -1 group-title='разные', Galaxy
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2010/index.m3u8
+#EXTINF: -1 group-title='разные', Gags Network
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14024/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh VHS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19293/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Thriller
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19300/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Soviet
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19301/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Series
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19295/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Russian
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19299/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Romantic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19298/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Rating
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19292/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Premiere
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19290/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Horror
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19296/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh HD AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15112/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Fantastic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19294/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Family
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19291/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Comedy
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19289/index.m3u8
+#EXTINF: -1 group-title='разные', Fresh Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19297/index.m3u8
+#EXTINF: -1 group-title='разные', Fox Racing US
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19144/index.m3u8
+#EXTINF: -1 group-title='разные', FoodTime HD 50
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10025/index.m3u8
+#EXTINF: -1 group-title='разные', FoodTime HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/918/index.m3u8
+#EXTINF: -1 group-title='разные', Food Network HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2419/index.m3u8
+#EXTINF: -1 group-title='разные', FlixSnip HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10060/index.m3u8
+#EXTINF: -1 group-title='разные', Fint Ga 4
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31682/index.m3u8
+#EXTINF: -1 group-title='разные', Fint Ga 3
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20093/index.m3u8
+#EXTINF: -1 group-title='разные', Fint Ga 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20092/index.m3u8
+#EXTINF: -1 group-title='разные', Fint Ga 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20091/index.m3u8
+#EXTINF: -1 group-title='разные', FilmZone Plus HD EE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20025/index.m3u8
+#EXTINF: -1 group-title='разные', FilmBox
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1071/index.m3u8
+#EXTINF: -1 group-title='разные', FightBox HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20027/index.m3u8
+#EXTINF: -1 group-title='разные', FightBox
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15232/index.m3u8
+#EXTINF: -1 group-title='разные', Fast & Fun Box HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1018/index.m3u8
+#EXTINF: -1 group-title='разные', Fast & Fun Box
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15231/index.m3u8
+#EXTINF: -1 group-title='разные', FashionBox HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20038/index.m3u8
+#EXTINF: -1 group-title='разные', Fashion TV UHD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/4005/index.m3u8
+#EXTINF: -1 group-title='разные', Fashion TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2045/index.m3u8
+#EXTINF: -1 group-title='разные', Fashion & Lifestyle HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2044/index.m3u8
+#EXTINF: -1 group-title='разные', FamilyJam HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20210/index.m3u8
+#EXTINF: -1 group-title='разные', FX Life HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14003/index.m3u8
+#EXTINF: -1 group-title='разные', FX Life
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9232/index.m3u8
+#EXTINF: -1 group-title='разные', FX HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19216/index.m3u8
+#EXTINF: -1 group-title='разные', FAN HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16021/index.m3u8
+#EXTINF: -1 group-title='разные', FAN
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/734/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Western HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20218/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Oscar HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17065/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Modern HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17068/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Media HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17064/index.m3u8
+#EXTINF: -1 group-title='разные', Eye History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20217/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Frozen HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17066/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Family HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20216/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Drive HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20219/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Cyber HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20220/index.m3u8
+#EXTINF: -1 group-title='разные', Eye Criminal HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17067/index.m3u8
+#EXTINF: -1 group-title='разные', Epic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2054/index.m3u8
+#EXTINF: -1 group-title='разные', Epic Drama
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1048/index.m3u8
+#EXTINF: -1 group-title='разные', English Club TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/993/index.m3u8
+#EXTINF: -1 group-title='разные', English Class HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15190/index.m3u8
+#EXTINF: -1 group-title='разные', ESPNews US
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19154/index.m3u8
+#EXTINF: -1 group-title='разные', ESPN HD US
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19156/index.m3u8
+#EXTINF: -1 group-title='разные', E TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/736/index.m3u8
+#EXTINF: -1 group-title='разные', Duck TV HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1031/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Скорая Помощь HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20088/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Сериал
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14227/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Сваты
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14228/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV СССР HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14218/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV VHS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14225/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14217/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV New HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14216/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Music
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20087/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Marvel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14215/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Horror HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14213/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Hit HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14212/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14211/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Fantastic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14210/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Detective HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14226/index.m3u8
+#EXTINF: -1 group-title='разные', Dosug TV Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14209/index.m3u8
+#EXTINF: -1 group-title='разные', DocuBox HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/968/index.m3u8
+#EXTINF: -1 group-title='разные', Discovery Science PL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/136/index.m3u8
+#EXTINF: -1 group-title='разные', Discovery Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/140/index.m3u8
+#EXTINF: -1 group-title='разные', DetectiveJam HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20209/index.m3u8
+#EXTINF: -1 group-title='разные', Da Vinci
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/537/index.m3u8
+#EXTINF: -1 group-title='разные', DTX HD PL
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2006/index.m3u8
+#EXTINF: -1 group-title='разные', Comedy Central
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/157/index.m3u8
+#EXTINF: -1 group-title='разные', Comedy AM
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/277/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Marvel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16051/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Live HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19436/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Inquest
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16152/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Holiday
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16089/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus History
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/18139/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Comedy
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16151/index.m3u8
+#EXTINF: -1 group-title='разные', Citrus Cartoon
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16050/index.m3u8
+#EXTINF: -1 group-title='разные', Cartoonito
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/723/index.m3u8
+#EXTINF: -1 group-title='разные', Cartoon Network HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/143/index.m3u8
+#EXTINF: -1 group-title='разные', Cartoon Classics
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2075/index.m3u8
+#EXTINF: -1 group-title='разные', Canal 11 HD PT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31592/index.m3u8
+#EXTINF: -1 group-title='разные', Bollywood HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/239/index.m3u8
+#EXTINF: -1 group-title='разные', Big Planet HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20036/index.m3u8
+#EXTINF: -1 group-title='разные', Big Planet
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14027/index.m3u8
+#EXTINF: -1 group-title='разные', Benfica TV HD PT
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19160/index.m3u8
+#EXTINF: -1 group-title='разные', Baby Time
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20030/index.m3u8
+#EXTINF: -1 group-title='разные', Baby TV
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2084/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Zombie HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19420/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Western HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19419/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Travel Premiere HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31652/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Travel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19418/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Stories HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20155/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Spy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19285/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19281/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Oscar HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19278/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Memory HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19279/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Mayday HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20159/index.m3u8
+#EXTINF: -1 group-title='разные', BOX M.Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19280/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Lo-Fi HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31545/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Hybrid HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19275/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Gurman HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31653/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Ghost HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20154/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Gangster HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19277/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Game HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19284/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Franchise HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19274/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Fantasy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20156/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Docu HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20153/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Cyber HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19421/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Be On Edge Live 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19423/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Be On Edge Live 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19422/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Be On Edge HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19424/index.m3u8
+#EXTINF: -1 group-title='разные', BOX AutoTrend HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31654/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Apocalypse HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31655/index.m3u8
+#EXTINF: -1 group-title='разные', BOX Anime HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19276/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Сваты HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11047/index.m3u8
+#EXTINF: -1 group-title='разные', BCU СССР HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11026/index.m3u8
+#EXTINF: -1 group-title='разные', BCU VHS HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11042/index.m3u8
+#EXTINF: -1 group-title='разные', BCU TruMotion HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17054/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Survival OLD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17020/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Survival HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17019/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Stars HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11044/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Russian HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11041/index.m3u8
+#EXTINF: -1 group-title='разные', BCU RuSerial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11046/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Romantic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11040/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Reality HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16082/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Premiere HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11039/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Premiere 3 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11017/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Premiere 2 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11016/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Premiere 1 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11015/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Multserial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11025/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Media HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11043/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Marvel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15025/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Little HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19425/index.m3u8
+#EXTINF: -1 group-title='разные', BCU History HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11034/index.m3u8
+#EXTINF: -1 group-title='разные', BCU FilMystic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11033/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Fantastic HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11032/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Criminal HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11048/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Cosmo HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17021/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15026/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Catastrophe HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11028/index.m3u8
+#EXTINF: -1 group-title='разные', BCU Action HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/11027/index.m3u8
+#EXTINF: -1 group-title='разные', Amedia Premium
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/555/index.m3u8
+#EXTINF: -1 group-title='разные', Amedia Hit
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/556/index.m3u8
+#EXTINF: -1 group-title='разные', Amedia 2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/510/index.m3u8
+#EXTINF: -1 group-title='разные', Amedia 1
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/554/index.m3u8
 #EXTINF: -1 group-title='ФИЛЬМЫ', Джон Уик 2 [США/2017]
 http://dmi3y-tv.ru/hls/film/DJONUIK2.m3u8
 #EXTINF: -1 group-title='ФИЛЬМЫ', Джон Уик 3 [США/2019]
@@ -1575,18 +3285,12 @@ http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', OCKO HITY
-http://dmi3y-tv.ru/hls/CH_OCKOHITY.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', OCKO STAR
-http://dmi3y-tv.ru/hls/CH_OCKOSTAR.m3u8
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', OneBY
 http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', ТНТ MUSIC
 http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', V2BEAT HD720
 http://dmi3y-tv.ru/hls/CH_V2BEATHD720.m3u8
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', Spirit TV
-http://dmi3y-tv.ru/hls/CH_SPIRITTV.m3u8
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', Kronehit
 http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', 88 Stereo HD720
@@ -1597,12 +3301,8 @@ http://dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Jazz FM 89.1 FM (Москва)
 http://nashe3.hostingradio.ru/jazz-128.mp3
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Страна FM 89.9 FM (Москва)
-http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Relax FM 90.8 FM (Москва)
 http://ic7.101.ru:8000/v13_1
-#EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Культура 91.6 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Rock FM 95.2 FM (Москва)
 http://nashe1.hostingradio.ru/rock-128.mp3
 #EXTINF: -1 group-title='МУЗЫК РАДИО8', [Радио] Дорожное радио 96.0 FM (Москва)
@@ -1619,8 +3319,6 @@ http://nashe3.hostingradio.ru/nashe-128.mp3
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF: -1 group-title='18', Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF: -1 group-title='18', Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF: -1 group-title='18', Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF: -1 group-title='18', Blonde
