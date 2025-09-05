@@ -11,8 +11,8 @@ http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_1TV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ROSSIA1.m3u8
 #EXTINF: -1 group-title='Эфирные', Матч! (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_MATCHTV.m3u8
-#EXTINF: -1 group-title='Эфирные', НТВ (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_NTV.m3u8
+#EXTINF: -1 group-title='Эфирные', НТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF: -1 group-title='Эфирные', Пятый канал (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_5TV.m3u8
 #EXTINF: -1 group-title='Эфирные', Россия K (Ставрополь)
@@ -27,22 +27,14 @@ http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TVC.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_RENTV.m3u8
 #EXTINF: -1 group-title='Эфирные', СТС (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_STS.m3u8
-#EXTINF: -1 group-title='Эфирные', Домашний (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_DOMASHNIY.m3u8
+#EXTINF: -1 group-title='Эфирные', Домашний
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF: -1 group-title='Эфирные', ТВ3 (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_TV3.m3u8
 #EXTINF: -1 group-title='Эфирные', Пятница! (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_FRIDAY.m3u8
 #EXTINF: -1 group-title='Эфирные', Звезда (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ZVEZDA.m3u8
-#EXTINF: -1 group-title='Эфирные', Кавказ 24 (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF: -1 group-title='Эфирные', СВОЁ ТВ HD (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
-#EXTINF: -1 group-title='Эфирные', АТВ (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF: -1 group-title='Эфирные', Своё ТВ Ставрополь HD
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
 #EXTINF: -1 group-title='Эфирные', Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF: -1 group-title='Эфирные', Маяк
@@ -353,26 +345,16 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_VSETV.m3u8
 #EXTINF: -1 group-title='ИНФО', 8 канал
 http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF: -1 group-title='ИНФО', E TV HD
-http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
 #EXTINF: -1 group-title='ИНФО', Надежда HD720
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF: -1 group-title='ИНФО', Три Ангела
-http://dmi3y-tv.ru/hls/CH_3ANGELA.m3u8
-#EXTINF: -1 group-title='ИНФО', 7tv
-http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 #EXTINF: -1 group-title='ИНФО', LIFE TV [RUS]
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
 #EXTINF: -1 group-title='ИНФО', Каскад-24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF: -1 group-title='ИНФО', КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF: -1 group-title='ИНФО', Твоё ТВ
-http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF: -1 group-title='ИНФО', Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF: -1 group-title='ИНФО', Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF: -1 group-title='ИНФО', Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF: -1 group-title='ИНФО', Мир
@@ -417,12 +399,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF: -1 group-title='ИНФО', Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='ИНФО', E TV
-http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='ИНФО', КУХНЯ-ТВ
-http://178.124.152.238:8088/kuhnya
-#EXTINF: -1 group-title='ИНФО', Анекдот ТВ
-http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF: -1 group-title='Детские', Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='Детские', Солнце
@@ -567,82 +543,12 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Кино и сериалы', Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', Кино и сериалы HD (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', КИНО ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
-#EXTINF: -1 group-title='Кино и сериалы', Amedia Premium HD
-http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', Дом кино
 https://streaming.goodstream.cyou/live/44.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', Советское кино
@@ -665,6 +571,160 @@ http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/744/index.m3u8
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/743/index.m3u8
 #EXTINF: -1 group-title='Кино и сериалы', Мосфильм. Золотая коллекция
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6392/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF: -1 group-title='Познавательные', к16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Известия ТВ
+http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', ТРК Евразия
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF: -1 group-title='Познавательные', Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF: -1 group-title='Познавательные', Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF: -1 group-title='Познавательные', Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF: -1 group-title='Познавательные', ПРОДВИЖЕНИЕ
+http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF: -1 group-title='Познавательные', МосОбр ТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Документалка 1
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Документалка 3
+https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Моя Планета
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF: -1 group-title='Познавательные', 360° Международный HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+#EXTINF: -1 group-title='Познавательные', Первый Космический HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF: -1 group-title='Познавательные', Дикая рыбалка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2005/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Диалоги о рыбалке
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2394/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16138/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Охота и рыбалка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2019/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Дикая охота HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2004/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Охота
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15513/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Discovery Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/140/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Investigation Discovery
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Animal Planet
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/137/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Моя Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/117/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Travel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31619/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31618/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Food
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31616/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Yosso TV Adrenaline
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15105/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju Nature
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/161/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju History
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/162/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Viju Explore
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/163/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Travel+Adventure
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/850/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Travel Channel HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/233/index.m3u8
+#EXTINF: -1 group-title='Познавательные', National Geographic
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14000/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Nat Geo Wild
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/133/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Телепутешествия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2051/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Океан HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/703/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Зоо ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2100/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Живая природа HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2074/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Живая Планета
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2101/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Домашние Животные
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/158/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Глазами Туриста HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2104/index.m3u8
+#EXTINF: -1 group-title='Познавательные', В мире животных HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2089/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Большая Азия HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2009/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Бобёр
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/725/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Zоопарк
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/731/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Стройка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16139/index.m3u8
+#EXTINF: -1 group-title='Познавательные', The Explorers HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16035/index.m3u8
+#EXTINF: -1 group-title='Познавательные', TERRA
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/230/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Nano
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2081/index.m3u8
+#EXTINF: -1 group-title='Познавательные', Вопросы и ответы
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2026/index.m3u8
+#EXTINF: -1 group-title='Познавательные', VF Орел и решка
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31476/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Ocean TV
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/703/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Охота и рыбалка
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/2019/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', VF Охота
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/15513/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', VF Рыбалка
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/16138/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Рыболов HD
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/19254/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', National Geographic
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/14000/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Big Planet
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/14027/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Nat Geo Wild
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/133/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Discovery Science
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/136/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Discovery Channel
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/140/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Viju Nature
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/161/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Viju History
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/162/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Viju Explore
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/163/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Зоопарк
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/731/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Зоо ТВ
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/2100/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', Viasat Nature HD
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/15225/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', MM Микромир HD
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/18193/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', MM Макромир HD
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/18194/index.m3u8
+#EXTINF: -1 group-title='познавательные 2', MM Мегамир HD
+http://eb30d048.ottrast.com/iptv/B594A737QXNFS4/18195/index.m3u8
 #EXTINF: -1 group-title='Спортивные', Матч! (Архив)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF: -1 group-title='Спортивные', Матч ТВ
@@ -729,144 +789,6 @@ http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/535/index.m3u8
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/160/index.m3u8
 #EXTINF: -1 group-title='Спортивные', V Sport Ultra HD SE
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19163/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Теледом ТВ
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF: -1 group-title='Познавательные', к16
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Ветта 24
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Известия ТВ
-http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', РЖД ТВ
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', ТРК Евразия
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF: -1 group-title='Познавательные', Наш Дом
-http://85.234.33.63/stream/c11.m3u8
-#EXTINF: -1 group-title='Познавательные', Радость Моя
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF: -1 group-title='Познавательные', Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Прима
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', ПРОДВИЖЕНИЕ
-http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF: -1 group-title='Познавательные', Ратник
-http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF: -1 group-title='Познавательные', МосОбр ТВ
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Нано
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF: -1 group-title='Познавательные', Просвещение
-https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Ратник
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Эхо TV
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF: -1 group-title='Познавательные', Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познавательные', Документалка 1
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познавательные', Документалка 3
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познавательные', Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title='Познавательные', 360° Международный HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF: -1 group-title='Познавательные', Первый Космический HD
-http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF: -1 group-title='Познавательные', Дикая рыбалка HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2005/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Диалоги о рыбалке
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2394/index.m3u8
-#EXTINF: -1 group-title='Познавательные', VF Рыбалка
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16138/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Охота и рыбалка
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2019/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Дикая охота HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2004/index.m3u8
-#EXTINF: -1 group-title='Познавательные', VF Охота
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15513/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Animal Planet
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/137/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Investigation Discovery
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Discovery Channel
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/140/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Телепутешествия
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2051/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Океан HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/703/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Моя Планета
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/117/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Зоо ТВ
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2100/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Живая природа HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2074/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Живая Планета
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2101/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Домашние Животные
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/158/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Глазами Туриста HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2104/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Вопросы и ответы
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2026/index.m3u8
-#EXTINF: -1 group-title='Познавательные', В мире животных HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2089/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Большая Азия HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2009/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Бобёр
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/725/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Zоопарк
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/731/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Yosso TV Travel
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31619/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Yosso TV Nature
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31618/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Yosso TV Food
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31616/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Yosso TV Adrenaline
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15105/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Viju Nature
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/161/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Viju History
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/162/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Viju Explore
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/163/index.m3u8
-#EXTINF: -1 group-title='Познавательные', VF Стройка
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16139/index.m3u8
-#EXTINF: -1 group-title='Познавательные', VF Путешествия
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15515/index.m3u8
-#EXTINF: -1 group-title='Познавательные', VF Орел и решка
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31476/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Travel+Adventure
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/850/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Travel Channel HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/233/index.m3u8
-#EXTINF: -1 group-title='Познавательные', The Explorers HD
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16035/index.m3u8
-#EXTINF: -1 group-title='Познавательные', TERRA
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/230/index.m3u8
-#EXTINF: -1 group-title='Познавательные', National Geographic
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14000/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Nat Geo Wild
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/133/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Nano
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2081/index.m3u8
-#EXTINF: -1 group-title='Познавательные', Investigation Discovery
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2085/index.m3u8
-#EXTINF: -1 group-title='Музыкальные', Жара HD
-http://188.113.190.15/328/mono.m3u8
-#EXTINF: -1 group-title='Музыкальные', Вести ФМ
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF: -1 group-title='Музыкальные', Маяк
-http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF: -1 group-title='Музыкальные', Радио России
-http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF: -1 group-title='Музыкальные', МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF: -1 group-title='Музыкальные', OneBY
@@ -881,6 +803,12 @@ http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 http://dmi3y-tv.ru/hls/CH_88STEREOHD720.m3u8
 #EXTINF: -1 group-title='Музыкальные', TRACE Urban
 http://dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
+#EXTINF: -1 group-title='Музыкальные', Маяк
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF: -1 group-title='Музыкальные', Вести ФМ
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF: -1 group-title='Музыкальные', Радио России
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF: -1 group-title='Музыкальные', [Радио] Радио России 66.44 УКВ (Москва)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF: -1 group-title='Музыкальные', [Радио] Jazz FM 89.1 FM (Москва)
@@ -899,10 +827,10 @@ http://icecast.newradio.cdnvideo.ru/newradio3
 http://nashe3.hostingradio.ru/best-128.mp3
 #EXTINF: -1 group-title='Музыкальные', [Радио] Наше радио 101.7 FM (Москва)
 http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF: -1 group-title='Fashion18', Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF: -1 group-title='Fashion18', Rouge TV
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF: -1 group-title='Fashion18', POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF: -1 group-title='Fashion18', Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF: -1 group-title='Fashion18', Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF: -1 group-title='Fashion18', Blonde
@@ -913,63 +841,31 @@ http://cdn.adultiptv.net/anal.m3u8
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF: -1 group-title='Fashion18', Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF: -1 group-title='Fashion18', Threesome
-http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF: -1 group-title='Fashion18', Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF: -1 group-title='Fashion18', Teen
-http://cdn.adultiptv.net/teen.m3u8
 #EXTINF: -1 group-title='Fashion18', Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF: -1 group-title='Fashion18', POV
-http://cdn.adultiptv.net/pov.m3u8
+#EXTINF: -1 group-title='Fashion18', Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF: -1 group-title='Fashion18', Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF: -1 group-title='Fashion18', Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF: -1 group-title='Fashion18', Interracial
-http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF: -1 group-title='Fashion18', Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF: -1 group-title='Fashion18', Teen
+http://cdn.adultiptv.net/teen.m3u8
 #EXTINF: -1 group-title='Fashion18', Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF: -1 group-title='Fashion18', Fetish
-http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF: -1 group-title='Fashion18', Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF: -1 group-title='Fashion18', Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF: -1 group-title='Fashion18', Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF: -1 group-title='Fashion18', Fetish
+http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF: -1 group-title='Fashion18', MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF: -1 group-title='Fashion18', Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF: -1 group-title='Fashion18', Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF: -1 group-title='Fashion18', Bigass HD
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF: -1 group-title='Fashion18', Cuckold HD
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF: -1 group-title='Fashion18', Fetish HD
-http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF: -1 group-title='Fashion18', Hard Core
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF: -1 group-title='Fashion18', Interracial HD
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF: -1 group-title='Fashion18', Milf HD
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF: -1 group-title='Fashion18', Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF: -1 group-title='Fashion18', Bigass HD
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF: -1 group-title='Fashion18', Cuckold HD
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF: -1 group-title='Fashion18', Fetish HD
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF: -1 group-title='Fashion18', Hard Core
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF: -1 group-title='Fashion18', Interracial HD
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF: -1 group-title='Fashion18', Latina HD 720
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF: -1 group-title='Fashion18', Lesbian HD
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF: -1 group-title='Fashion18', Milf HD
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF: -1 group-title='Fashion18', POV HD 720
-http://live.redtraffic.xyz/pov.m3u8
