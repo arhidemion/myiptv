@@ -1,56 +1,64 @@
 #EXTM3U
+#EXTINF: -1 group-title='Эфир', Кавказ 24 (Ставрополь)
+http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF: -1 group-title='Эфир', СВОЁ ТВ (Ставрополь)
+http://a0925677.xsph.ru/hls/region/CH_SVOETV_STAVR.m3u8
+#EXTINF: -1 group-title='Эфир', АТВ (Ставрополь)
+http://a0925677.xsph.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
 #EXTINF: -1 group-title='Эфир', Своё ТВ Ставрополь HD
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
 #EXTINF: -1 group-title='Эфир', Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF: -1 group-title='Эфир', Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF: -1 group-title='Эфир', НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF: -1 group-title='Эфир', Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF: -1 group-title='Эфир', Россия К
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
 #EXTINF: -1 group-title='Эфир', Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF: -1 group-title='Эфир', Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF: -1 group-title='Эфир', ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF: -1 group-title='Эфир', ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF: -1 group-title='Эфир', РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF: -1 group-title='Эфир', СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF: -1 group-title='Эфир', СТС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF: -1 group-title='Эфир', Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF: -1 group-title='Эфир', ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF: -1 group-title='Эфир', Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF: -1 group-title='Эфир', Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF: -1 group-title='Эфир', МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
 #EXTINF: -1 group-title='Эфир', ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF: -1 group-title='Эфир', МУЗ ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF: -1 group-title='Эфир', Че!
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE.m3u8
 #EXTINF: -1 group-title='Эфир', Ю
-http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
-#EXTINF: -1 group-title='Эфир', СТС Love
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U.m3u8
 #EXTINF: -1 group-title='Эфир', 2x2
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF: -1 group-title='Эфир', Суббота!
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF: -1 group-title='Эфир', ТНТ4
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4.m3u8
+#EXTINF: -1 group-title='Эфир', 8 канал
+http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF: -1 group-title='Эфир', Солнце
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF: -1 group-title='Эфир', Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF: -1 group-title='Эфир', Маяк
@@ -58,297 +66,377 @@ http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF: -1 group-title='Эфир', Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF: -1 group-title='эфир +-', Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_8.m3u8
 #EXTINF: -1 group-title='эфир +-', Первый канал (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+6) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+8) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 1 HD (+9) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF: -1 group-title='эфир +-', НТВ HD
+http://a0925677.xsph.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF: -1 group-title='эфир +-', НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_NTV_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия К HD (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия К HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия К HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия К HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF: -1 group-title='эфир +-', PLANETA RTR HD720 (EURO) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF: -1 group-title='эфир +-', PLANETA RTR HD720 (USA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF: -1 group-title='эфир +-', РОССИЯ РТР HD720 (ASIA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF: -1 group-title='эфир +-', РОССИЯ РТР HD720 (СНГ) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF: -1 group-title='эфир +-', Россия 24 (+3)
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
 #EXTINF: -1 group-title='эфир +-', Россия 24 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Карусель (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
 #EXTINF: -1 group-title='эфир +-', ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF: -1 group-title='эфир +-', ОТР (+4)
+http://a0925677.xsph.ru/hls/T2/CH_OTR_4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВЦ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_7.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_4.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 #EXTINF: -1 group-title='эфир +-', РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS-1.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_2.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_4.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_6.m3u8
 #EXTINF: -1 group-title='эфир +-', СПАС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_7.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS-1.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_4.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_6.m3u8
 #EXTINF: -1 group-title='эфир +-', СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Домашний (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_2.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_6.m3u8
 #EXTINF: -1 group-title='эфир +-', ТВ3 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TV3_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница! (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница! (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница! (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница! (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Пятница! (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF: -1 group-title='эфир +-', Звезда HD
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR-1.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF: -1 group-title='эфир +-', МИР HD
+http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_4.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_6.m3u8
 #EXTINF: -1 group-title='эфир +-', МИР (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_7.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT-1.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_6.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_7.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
 #EXTINF: -1 group-title='эфир +-', МУЗ ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Че! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Че!
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE.m3u8
 #EXTINF: -1 group-title='эфир +-', Че! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Че! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Че! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_6.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Че! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_7.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_CHE_7.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U-1.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U-1.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю
-http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U_2.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U_4.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_6.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U_6.m3u8
 #EXTINF: -1 group-title='эфир +-', Ю (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF: -1 group-title='эфир +-', СТС Love (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_U_7.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2-1.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2-1.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2_2.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2_4.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_6.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2_6.m3u8
 #EXTINF: -1 group-title='эфир +-', 2x2 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_7.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота!
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF: -1 group-title='эфир +-', Суббота! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_2X2_7.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4-1.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_2.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_4.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_6.m3u8
 #EXTINF: -1 group-title='эфир +-', ТНТ4 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_TNT4_7.m3u8
+#EXTINF: -1 group-title='эфир +-', 8 канал
+http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF: -1 group-title='эфир +-', СТС Love
+http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF: -1 group-title='эфир +-', СТС Love (+2)
+http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF: -1 group-title='эфир +-', СТС Love (+4)
+http://a0925677.xsph.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF: -1 group-title='ИНФО', Соловьев.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF: -1 group-title='ИНФО', МИР 24
+http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
+#EXTINF: -1 group-title='ИНФО', МИР 24 HD
+http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
+#EXTINF: -1 group-title='ИНФО', РБК
+http://a0925677.xsph.ru/hls/CH_RBK.m3u8
+#EXTINF: -1 group-title='ИНФО', РБК HD
+http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
+#EXTINF: -1 group-title='ИНФО', Красная линия
+http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
+#EXTINF: -1 group-title='ИНФО', RTД HD
+http://a0925677.xsph.ru/hls/CH_RTDHD.m3u8
+#EXTINF: -1 group-title='ИНФО', Всё ТВ
+http://a0925677.xsph.ru/hls/zabava/CH_VSETV.m3u8
+#EXTINF: -1 group-title='ИНФО', РЖД ТВ HD
+http://a0925677.xsph.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF: -1 group-title='ИНФО', Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF: -1 group-title='ИНФО', Большая Азия
+http://a0925677.xsph.ru/hls/CH_BAZIYA.m3u8
+#EXTINF: -1 group-title='ИНФО', Байкал Телеком info HD720
+http://a0925677.xsph.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
+#EXTINF: -1 group-title='ИНФО', 8 Канал (Европа)
+http://a0925677.xsph.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF: -1 group-title='ИНФО', E TV HD
+http://a0925677.xsph.ru/hls/CH_ETVHD.m3u8
+#EXTINF: -1 group-title='ИНФО', Просвещение
+http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF: -1 group-title='ИНФО', Надежда HD720
+http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF: -1 group-title='ИНФО', 7tv
+http://a0925677.xsph.ru/hls/CH_7TV.m3u8
+#EXTINF: -1 group-title='ИНФО', LIFE TV [RUS]
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUS.m3u8
+#EXTINF: -1 group-title='ИНФО', LIFE TV [RUS/EST]
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUSEST.m3u8
+#EXTINF: -1 group-title='ИНФО', Твое ТВ HD
+http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF: -1 group-title='ИНФО', 360°
+http://a0925677.xsph.ru/hls/CH_360TV.m3u8
+#EXTINF: -1 group-title='ИНФО', 360° HD
+http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
+#EXTINF: -1 group-title='ИНФО', Радость моя
+http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF: -1 group-title='ИНФО', ПРОДВИЖЕНИЕ
+http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF: -1 group-title='ИНФО', СОЮЗ HD
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF: -1 group-title='ИНФО', НЕИЗВЕСТНАЯ РОССИЯ
+http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF: -1 group-title='ИНФО', Наука 2.0
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
 #EXTINF: -1 group-title='ИНФО', Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/variant.m3u8
 #EXTINF: -1 group-title='ИНФО', ТВ Центр
@@ -431,18 +519,30 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='ИНФО', Документалка 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title='Детски', Суббота! (-1)
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA-1.m3u8
+#EXTINF: -1 group-title='Детски', Суббота!
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF: -1 group-title='Детски', Суббота! (+2)
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_2.m3u8
+#EXTINF: -1 group-title='Детски', Суббота! (+4)
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_4.m3u8
+#EXTINF: -1 group-title='Детски', Суббота! (+6)
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_6.m3u8
+#EXTINF: -1 group-title='Детски', Суббота! (+7)
+http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA_7.m3u8
 #EXTINF: -1 group-title='Детски', Солнце (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY-1.m3u8
 #EXTINF: -1 group-title='Детски', Солнце
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF: -1 group-title='Детски', Солнце (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_2.m3u8
 #EXTINF: -1 group-title='Детски', Солнце (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_4.m3u8
 #EXTINF: -1 group-title='Детски', Солнце (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_6.m3u8
 #EXTINF: -1 group-title='Детски', Солнце (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
+http://a0925677.xsph.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF: -1 group-title='Детски', Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title='Детски', Карусель
@@ -503,20 +603,28 @@ http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/15227/index.m3u8
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/16137/index.m3u8
 #EXTINF: -1 group-title='Развлекательны', VF Уральские пельмени
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/18198/index.m3u8
+#EXTINF: -1 group-title='Кино сериалы', НТВ ПРАВО
+http://a0925677.xsph.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF: -1 group-title='Кино сериалы', НТВ СЕРИАЛ
+http://a0925677.xsph.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF: -1 group-title='Кино сериалы', НТВ СТИЛЬ
+http://a0925677.xsph.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF: -1 group-title='Кино сериалы', НТВ ХИТ
+http://a0925677.xsph.ru/hls/CH_NTVHIT.m3u8
+#EXTINF: -1 group-title='Кино сериалы', Кино и сериалы (СМОТРИМ)
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF: -1 group-title='Кино сериалы', Кино и сериалы HD (СМОТРИМ)
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF: -1 group-title='Кино сериалы', KINO 24
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF: -1 group-title='Кино сериалы', Кино 1 International
+http://a0925677.xsph.ru/hls/CH_KINO1_INT.m3u8
+#EXTINF: -1 group-title='Кино сериалы', КИНО ТВ
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
+#EXTINF: -1 group-title='Кино сериалы', CINEMA
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
 #EXTINF: -1 group-title='Кино сериалы', Время
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/552/index.m3u8
-#EXTINF: -1 group-title='Кино сериалы', Кино и сериалы (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF: -1 group-title='Кино сериалы', Кино и сериалы HD (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF: -1 group-title='Кино сериалы', KINO 24
-http://dmitry-tv.ddns.net/hls/CH_KINO24.m3u8
-#EXTINF: -1 group-title='Кино сериалы', Кино 1 International
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
-#EXTINF: -1 group-title='Кино сериалы', КИНО ТВ
-http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
-#EXTINF: -1 group-title='Кино сериалы', CINEMA
-http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
 #EXTINF: -1 group-title='Кино сериалы', СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF: -1 group-title='Кино сериалы', Дом кино
@@ -785,6 +893,10 @@ http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/19415/index.m3u8
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/31618/index.m3u8
 #EXTINF: -1 group-title='Познавательны', Yosso TV Travel
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/31619/index.m3u8
+#EXTINF: -1 group-title='Спорт', Red Bull TV
+http://a0925677.xsph.ru/hls/CH_REDBULLTV.m3u8
+#EXTINF: -1 group-title='Спорт', Red Bull TV HD
+http://a0925677.xsph.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF: -1 group-title='Спорт', Матч! (Архив)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF: -1 group-title='Спорт', Матч ТВ
@@ -866,31 +978,31 @@ http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/10058/index.m3u8
 #EXTINF: -1 group-title='Спорт', StrahTV WWE Russian
 http://flm2t9h3.otttv.pw/iptv/5H7NYUKHHNBDRH9LW8BQRMFN/11056/index.m3u8
 #EXTINF: -1 group-title='Музыка', Муз Союз
-http://dmitry-tv.ddns.net/hls/CH_MUZSOYUZ.m3u8
+http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF: -1 group-title='Музыка', RUTV
-http://dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
+http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
 #EXTINF: -1 group-title='Музыка', RUTV HD
-http://dmitry-tv.ddns.net/hls/CH_RUTVHD.m3u8
+http://a0925677.xsph.ru/hls/CH_RUTVHD.m3u8
 #EXTINF: -1 group-title='Музыка', OneBY
-http://dmitry-tv.ddns.net/hls/CH_1MUZ.m3u8
+http://a0925677.xsph.ru/hls/CH_1MUZ.m3u8
 #EXTINF: -1 group-title='Музыка', ТНТ MUSIC
-http://dmitry-tv.ddns.net/hls/CH_TNT_MUSIC.m3u8
+http://a0925677.xsph.ru/hls/CH_TNT_MUSIC.m3u8
 #EXTINF: -1 group-title='Музыка', ТНТ MUSIC HD
-http://dmitry-tv.ddns.net/hls/CH_TNT_MUSICHD.m3u8
+http://a0925677.xsph.ru/hls/CH_TNT_MUSICHD.m3u8
 #EXTINF: -1 group-title='Музыка', V2BEAT HD720
-http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
 #EXTINF: -1 group-title='Музыка', Kronehit
-http://dmitry-tv.ddns.net/hls/CH_KRONEHIT.m3u8
+http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF: -1 group-title='Музыка', Kronehit HD
-http://dmitry-tv.ddns.net/hls/CH_KRONEHITHD.m3u8
+http://a0925677.xsph.ru/hls/CH_KRONEHITHD.m3u8
 #EXTINF: -1 group-title='Музыка', 88 Stereo HD720
-http://dmitry-tv.ddns.net/hls/CH_88STEREOHD720.m3u8
+http://a0925677.xsph.ru/hls/CH_88STEREOHD720.m3u8
 #EXTINF: -1 group-title='Музыка', TRACE Urban
-http://dmitry-tv.ddns.net/hls/CH_TRACE_URBAN.m3u8
+http://a0925677.xsph.ru/hls/CH_TRACE_URBAN.m3u8
 #EXTINF: -1 group-title='Музыка', TRACE Urban HD
-http://dmitry-tv.ddns.net/hls/CH_TRACE_URBANHD.m3u8
+http://a0925677.xsph.ru/hls/CH_TRACE_URBANHD.m3u8
 #EXTINF: -1 group-title='Музыка', Шансон ТВ
-http://dmitry-tv.ddns.net/hls/CH_SHANSONTV.m3u8
+http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF: -1 group-title='Музыка', МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF: -1 group-title='Музыка', Маяк
