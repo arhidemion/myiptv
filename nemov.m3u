@@ -745,6 +745,20 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF: -1 group-title='Развлекательны', Театр
 http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF: -1 group-title='Развлекательны', НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF: -1 group-title='Развлекательны', VF Орел и решка
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31476/index.m3u8
 #EXTINF: -1 group-title='Развлекательны', CineMan Ментовские войны
@@ -887,6 +901,20 @@ http://158.101.222.193:88/georgia_play.php?id=mir
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF: -1 group-title='Кино сериалы0', Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF: -1 epg-id='Смотрим Честный детектив' group-title='Кино сериалы0', Смотрим Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF: -1 epg-id='Смотрим 100% Любовь' group-title='Кино сериалы0', Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF: -1 epg-id='Смотрим 100% Классика' group-title='Кино сериалы0', Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF: -1 epg-id='Смотрим 100% Детское' group-title='Кино сериалы0', Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF: -1 epg-id='Смотрим 100% Факты' group-title='Кино сериалы0', Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF: -1 epg-id='Смотрим 100% Праздник' group-title='Кино сериалы0', Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF: -1 epg-id='Смотрим 100% Мужское' group-title='Кино сериалы0', Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF: -1 group-title='Познавательны', ПРОДВИЖЕНИЕ
 http://dmitry-tv.ddns.net/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF: -1 group-title='Познавательны', СОЮЗ HD
