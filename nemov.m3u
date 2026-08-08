@@ -43,6 +43,10 @@ https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF: -1 epg-id='yu' user-agent='HlsWinkPlayer' group-title='эфирр', Ю (Ставрополь)
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF: -1 epg-id='romantichnoe-hd' group-title='эфирр', Романтичное1
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5053/index.m3u8
+#EXTINF: -1 epg-id='romantichnoe-hd' group-title='эфирр', Романтичное2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5053/index.m3u8
 #EXTINF: -1 group-title='эфир -+', Первый канал (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF: -1 group-title='эфир -+', Первый канал
@@ -663,6 +667,20 @@ http://icecast.newradio.cdnvideo.ru/newradio3
 http://nashe3.hostingradio.ru/best-128.mp3
 #EXTINF: -1 group-title='Музыка0', [Радио] Наше радио 101.7 FM (Москва)
 http://nashe3.hostingradio.ru/nashe-128.mp3
+#EXTINF: -1 group-title='VPN', Романтичное3
+http://158.160.149.81:8080/8823/index.m3u8
+#EXTINF: -1 group-title='VPN', Романтичное4
+http://158.160.149.81:8080/8823/index.m3u8
+#EXTINF: -1 group-title='VPN', Романтичное5
+http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF: -1 group-title='VPN', Романтичное6
+http://158.160.149.81:8080/8823/index.m3u8
+#EXTINF: -1 group-title='VPN', Романтичное7
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5053/index.m3u8
+#EXTINF: -1 group-title='VPN', Романтичное8
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5053/index.m3u8
+#EXTINF: -1 epg-id='Романтичное HD' group-title='VPN', Романтичное9
+http://de1.plist.link:3355/FGfpnUmovVu8098/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxCx_sKAR4gJbzCacjXidYKuhGjhUjK8IryymTIMt4KcJ.tg6457680141
 #EXTINF: -1 group-title='VPN', Cartoon Classics
 http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/2075/index.m3u8
 #EXTINF: -1 group-title='VPN', КиноМульт
